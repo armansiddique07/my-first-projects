@@ -43,7 +43,7 @@ h1{
 }
 #head2{
     text-align: center;
-    font-size: 70px;
+    font-size: 50px;
     font-weight: bold;
 }
 .mission-item{
@@ -63,4 +63,8 @@ h1{
 h2{
     font-size: 50px;
     font-weight: 900;
+}
+h3{
+    font-size: 50;
+    font-weight: 700;
 }
