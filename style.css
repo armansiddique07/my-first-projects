@@ -68,3 +68,15 @@ h3{
     font-size: 50;
     font-weight: 700;
 }
+.white{
+    color: #fff;
+}
+.foot{
+    text-align: center;
+}
+footer{
+    background-color: black;
+}
+footer p{
+    color:white;
+}
