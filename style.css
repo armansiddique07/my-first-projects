@@ -60,3 +60,7 @@ h1{
 .pic2{
     background-color: rgba(112, 128, 144, 0.397);
 }
+h2{
+    font-size: 50px;
+    font-weight: 900;
+}
