@@ -9,7 +9,7 @@ h1{
 .oranged{
     color: orangered;
 }
-section{
+.flexible-container{
     display: flex;
     padding: 5%;
 }
@@ -19,7 +19,7 @@ section{
 }
 
 .half-width{
-    width: 50%;
+    width: 80%;
     padding-left: 5%;
 }
 .half-width img{
@@ -34,4 +34,29 @@ section{
     background-image: linear-gradient(orangered,tomato);
     padding: 10px 40px;
     border-radius: 5px;
+}
+.blue{
+    color: rgb(2, 2, 39);
+}
+.orange{
+    color: orangered;
+}
+#head2{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+}
+.mission-item{
+    width: 30%;
+    margin-left: 2.5%;
+    padding-left: 20px;
+    box-shadow: 5px 5px 40px gray;
+    border-radius: 20px;
+    background-color: rgba(135, 207, 235, 0.548);
+}
+.pic{
+    background-color: rgba(250, 128, 114, 0.5);
+}
+.pic2{
+    background-color: rgba(112, 128, 144, 0.397);
 }
